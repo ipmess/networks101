@@ -17,4 +17,4 @@ The value that the entire _decimal numeral_ represents is equal to the sum of th
 
 The weight of each position _p_ is equal to 10<sup>p</sup>.
 
-For example, consider number 4378<sub>10</sub> or $4378_10$.
+For example, consider number 4378<sub>10</sub> or $`4378_10`$.
