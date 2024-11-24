@@ -17,10 +17,14 @@ The value that the entire _decimal numeral_ represents is equal to the sum of th
 
 The weight of each position <span>$$ p $$</span> is equal to <span>$$ 10^p $$</span>.
 
-For example, consider number <span>$$ 4378_{10} $$</span>.
+For example, consider number <span>$$4378_{10}$$</span>.
 
-The total value of the decimal numeral can be calculated as <div>$$8\times 10^0 + 7\times 10^1 + 3\times 10^2 + 4\times 10^3 =\\
-8\times 1 + 7\times 10 + 3\times 100 + 4\times 1000$$</div>.
+The total value of the decimal numeral can be calculated as
+
+<div>
+$$8\times 10^0 + 7\times 10^1 + 3\times 10^2 + 4\times 10^3 =\\
+8\times 1 + 7\times 10 + 3\times 100 + 4\times 1000$$
+</div>
 
 The exact same logic applies to all positional numeral systems, such as base-2 and base-16.
 
