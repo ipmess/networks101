@@ -22,7 +22,7 @@ For example, consider number <span>$$4378_{10}$$</span>.
 The total value of the decimal numeral can be calculated as
 
 <div>
-$$\begin{align}8\times 10^0 + 7\times 10^1 + 3\times 10^2 + 4\times 10^3 =\\
+$$\begin{align}&8\times 10^0 + 7\times 10^1 + 3\times 10^2 + 4\times 10^3 =\\
 &8\times 1 + 7\times 10 + 3\times 100 + 4\times 1000\end{align}$$
 </div>
 
@@ -45,4 +45,4 @@ This gives rise to the following table:
 | 5         | 32     | <span>$$2^5$$</span>  |
 | 6         | 64     | <span>$$2^6$$</span>  |
 
-So, le us consider the binary numeral <span>$$1010_2$$</span>.
+For example, let us consider the binary numeral <span>$$1010_2$$</span>.
