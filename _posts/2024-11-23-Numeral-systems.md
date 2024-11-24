@@ -23,7 +23,8 @@ The total value of the decimal numeral can be calculated as
 
 <div>
 $$\begin{align}&8\times 10^0 + 7\times 10^1 + 3\times 10^2 + 4\times 10^3 =\\
-&8\times 1 + 7\times 10 + 3\times 100 + 4\times 1000\end{align}$$
+&8\times 1 + 7\times 10 + 3\times 100 + 4\times 1000\\
+&8+70+300+4000=4378\end{align}$$
 </div>
 
 The exact same logic applies to all positional numeral systems, such as base-2 and base-16.
@@ -35,14 +36,30 @@ In binary, the weight of each position of a binary numeral is essentially <span>
 This gives rise to the following table:
 
 
-| Position  | weight | math representation   |
-| --------- | ------ | --------------------- |
-| 0         | 1      | <span>$$2^0$$</span>  |
-| 1         | 2      | <span>$$2^1$$</span>  |
-| 2         | 4      | <span>$$2^2$$</span>  |
-| 3         | 8      | <span>$$2^3$$</span>  |
-| 4         | 16     | <span>$$2^4$$</span>  |
-| 5         | 32     | <span>$$2^5$$</span>  |
-| 6         | 64     | <span>$$2^6$$</span>  |
+| Position  | weight | math representation     |
+| --------- | ------ | ----------------------- |
+| 0         | 1      | <span>$$2^0$$</span>    |
+| 1         | 2      | <span>$$2^1$$</span>    |
+| 2         | 4      | <span>$$2^2$$</span>    |
+| 3         | 8      | <span>$$2^3$$</span>    |
+| 4         | 16     | <span>$$2^4$$</span>    |
+| 5         | 32     | <span>$$2^5$$</span>    |
+| 6         | 64     | <span>$$2^6$$</span>    |
+| 7         | 128    | <span>$$2^7$$</span>    |
+| 8         | 256    | <span>$$2^8$$</span>    |
+| 9         | 512    | <span>$$2^9$$</span>    |
+| 10        | 1024   | <span>$$2^{10}$$</span> |
 
 For example, let us consider the binary numeral <span>$$1010_2$$</span>.
+
+Even though the mathematically strict way to denote the base , in Computer Science the widely accepted notation is to prepend `0x` to base-16 numerals, `0d` to decimal numerals, and `0b` to binary. From now on, I will use this notation as it is quite more convenient to write.
+
+`0b1010` = 
+
+<div>
+$$\begin{align}&0\times 0^0 + 1\times 2^1 + 0\times 2^2 + 1\times 2^3 =\\
+&0\times 1 + 1\times 2 + 0\times 4 + 1\times 8\\
+&0+2+0+8=10_{10}\end{align}$$
+</div>
+
+So, `0b1010 = 0d10`.
