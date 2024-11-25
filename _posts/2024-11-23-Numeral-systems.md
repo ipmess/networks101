@@ -35,7 +35,6 @@ In binary, the weight of each position of a binary numeral is essentially <span>
 
 This gives rise to the following table of weights per position:
 
-
 | Position  | weight | math representation     |
 | --------- | ------ | ----------------------- |
 | 0         | 1      | <span>$$2^0$$</span>    |
@@ -52,7 +51,7 @@ This gives rise to the following table of weights per position:
 
 For example, let us consider the binary numeral <span>$$1010_2$$</span>.
 
-Even though the mathematically strict way to denote the base , in Computer Science the widely accepted notation is to prepend `0x` to base-16 numerals, `0d` to decimal numerals, and `0b` to binary. From now on, I will try to use this notation as it is quite more convenient to write.
+Even though the mathematically strict way to denote the base is as a subscript following the numeral, in Computer Science the widely accepted notation is to prepend `0x` to base-16 numerals, `0d` to decimal numerals, and `0b` to binary. From now on, I will try to use this notation as it is quite more convenient to write.
 
 `0b1010` = 
 
@@ -93,4 +92,28 @@ At this point, we can see that <span>$$10_b=b_{10}$$</span>:
 $$\begin{align}&0\times b^0 + 1\times b^1=\\
 &0\times 1 + 1\times b\\
 &0+b=b_{10}\end{align}$$
+</div>
+
+# Base-16
+
+Base-16, more commonly referred to as _hexadecimal_ notation, is often used to represent large binary numbers such as MAC and IPv6 addresses.
+
+The logic behind determining the weight of each position in a base-16 numeral is the same as with all other standard positional systems:
+
+| Position  | weight | math representation      |
+| --------- | ------ | ------------------------ |
+| 0         | 1      | <span>$$16^0$$</span>    |
+| 1         | 16     | <span>$$16^1$$</span>    |
+| 2         | 256    | <span>$$16^2$$</span>    |
+| 3         | 4096   | <span>$$16^3$$</span>    |
+| 4         | 65,536 | <span>$$16^4$$</span>    |
+
+For example, let us consider the hexadecimal numeral <span>$$A6_{16}$$</span>.
+
+`0xA6` = 
+
+<div>
+$$\begin{align}&6\times 16^0 + A\times 16^1 =\\
+&6\times 1 + 10\times 16\\
+&6+160=166_{10}\end{align}$$
 </div>
