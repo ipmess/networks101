@@ -1,3 +1,8 @@
+---
+title: "Prerequisites"
+date: 2024-11-24
+---
+
 ## Prerequisites
 
 To understand many topics in networking, you will need to have a firm grasp of Numeral systems and conversions between them.  

@@ -1,3 +1,8 @@
+---
+title: "Numeral Systems"
+date: 2024-11-23
+---
+
 # Numeral Systems
 
 The best resource to understand what numeral systems are is the Wikipedia page for [Numeral Systems](https://en.wikipedia.org/wiki/Numeral_system).
