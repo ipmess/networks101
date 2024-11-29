@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="217.09332mm"
+   height="84.968422mm"
+   viewBox="0 0 217.09333 84.968444"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="7.show.ip.route.AD.and.metric.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     lock-margins="true"
+     fit-margin-top="1"
+     fit-margin-left="0.5"
+     fit-margin-right="0.5"
+     fit-margin-bottom="0.5"
+     inkscape:zoom="0.74250117"
+     inkscape:cx="421.54816"
+     inkscape:cy="245.79086"
+     inkscape:window-width="1310"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="false"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4672" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4666" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4924"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4663" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path16681" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path16702" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(3.4637854,76.405632)">
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#23c72f;fill-opacity:0.921569;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="45.702728"
+       y="7.6158047"
+       id="text35754"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';fill:#23c72f;fill-opacity:0.921569;stroke:none;stroke-width:0.264583px"
+         x="45.702728"
+         y="7.6158047"
+         id="tspan9543">AD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-2.9637854"
+       y="-71.826866"
+       id="text19169"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-2.9637854"
+         y="-71.826866"
+         id="tspan19167">R1#show ip route</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-2.9637854"
+         y="-66.833763"
+         id="tspan1600">Codes: L - local, C - connected, S - static, R - RIP, M - mobile, B - BGP</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-2.9637854"
+         y="-61.84066"
+         id="tspan1620">       ...</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-2.9637854"
+         y="-56.847557"
+         id="tspan1622">       &amp; - replicated local route overrides by connected</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-2.9637854"
+         y="-51.854454"
+         id="tspan1624" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-2.9637854"
+         y="-46.861347"
+         id="tspan1626">Gateway of last resort is not set</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-2.9637854"
+         y="-41.868244"
+         id="tspan1628" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-2.9637854"
+         y="-36.875141"
+         id="tspan1630">O     9.0.0.0/8 [110/11] via 10.0.0.2, 00:00:38, Ethernet0/1</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-2.9637854"
+         y="-31.882038"
+         id="tspan1632">      10.0.0.0/8 is variably subnetted, 4 subnets, 3 masks</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-2.9637854"
+         y="-26.888935"
+         id="tspan1634">C        10.0.0.0/24 is directly connected, Ethernet0/1</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-2.9637854"
+         y="-21.895832"
+         id="tspan1637">L        10.0.0.1/32 is directly connected, Ethernet0/1</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-2.9637854"
+         y="-16.902729"
+         id="tspan1639">C        10.10.10.16/30 is directly connected, Ethernet0/0</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-2.9637854"
+         y="-11.909625"
+         id="tspan1641">L        10.10.10.17/32 is directly connected, Ethernet0/0</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-2.9637854"
+         y="-6.9165215"
+         id="tspan1643">O     192.167.3.0/24 [110/11] via 10.0.0.2, 00:00:38, Ethernet0/1</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-2.9637854"
+         y="-1.9234182"
+         id="tspan1645">D     192.168.3.0/24 [90/409600] via 10.0.0.2, 00:00:07, Ethernet0/1</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-2.9637854"
+         y="3.0696852"
+         id="tspan6513" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-2.9637854"
+         y="8.062789"
+         id="tspan1647">R1#</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-2.9637854"
+         y="13.055892"
+         id="tspan1649" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-2.9637854"
+         y="18.048996"
+         id="tspan1651" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:0.921569;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="98.924835"
+       y="7.5731373"
+       id="text7774"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';fill:#ff6600;fill-opacity:0.921569;stroke:none;stroke-width:0.264583px"
+         x="98.924835"
+         y="7.5731373"
+         id="tspan7772">Metric</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#23c82f;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.921569;marker-end:url(#Arrow1Mend)"
+       d="m 54.984719,4.3067748 6.349433,-4.83434003"
+       id="path2435"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#23c82f;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.921569;marker-end:url(#Arrow1Mend)"
+       d="m 49.439883,3.1441168 11.63467,-8.72857"
+       id="path5655"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff6600;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.921569;marker-end:url(#Arrow1Mend)"
+       d="m 98.712985,2.9374218 -11.1746,-4.01322"
+       id="path6121"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff6600;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.921569;marker-end:url(#Arrow1Mend)"
+       d="M 110.27732,2.3559697 C 91.716597,-25.052599 89.876743,-20.119842 80.317207,-11.882718"
+       id="path8895"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

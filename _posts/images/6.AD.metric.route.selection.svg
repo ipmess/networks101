@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="337.36407mm"
+   height="221.85977mm"
+   viewBox="0 0 337.36407 221.85977"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="6.AD.metric.route.selection.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="0.54584947"
+     inkscape:cx="626.54637"
+     inkscape:cy="418.61358"
+     inkscape:window-width="1310"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path54156" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-18.695568,-28.733146)">
+    <g
+       id="g54094">
+      <rect
+         style="fill:#d68d00;fill-opacity:0.145455;stroke:#ff6600;stroke-width:0.661988;stroke-opacity:0.921569;paint-order:fill markers stroke"
+         id="rect846"
+         width="108.13158"
+         height="43.952637"
+         x="19.026562"
+         y="29.388977"
+         rx="3.6044979"
+         ry="3.6580763" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.29167px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="39.178379"
+         y="37.270638"
+         id="text5242"><tspan
+           sodipodi:role="line"
+           id="tspan5240"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="39.178379"
+           y="37.270638">Routing information source 1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:5.29167px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="41.133041"
+         y="44.209713"
+         id="text5858"><tspan
+           sodipodi:role="line"
+           id="tspan5856"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="41.133041"
+           y="44.209713">Administrative Distance: 10</tspan></text>
+      <g
+         id="g25705">
+        <ellipse
+           style="fill:#d68a00;fill-opacity:0.145098;stroke:#ff6600;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.807843;paint-order:fill markers stroke"
+           id="path6688"
+           cx="38.380627"
+           cy="59.4571"
+           rx="16.278442"
+           ry="9.5540104" />
+        <text
+           xml:space="preserve"
+           style="font-size:5.29167px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="38.335411"
+           y="58.702625"
+           id="text13995"><tspan
+             id="tspan13993"
+             style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+             x="38.335411"
+             y="58.702625"
+             sodipodi:role="line">Route with</tspan><tspan
+             style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+             x="38.335411"
+             y="63.994293"
+             id="tspan14181"
+             sodipodi:role="line">metric 100</tspan></text>
+      </g>
+      <g
+         id="g25699"
+         transform="translate(-1.6127852)">
+        <ellipse
+           style="fill:#d68a00;fill-opacity:0.145098;stroke:#ff6600;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.807843;paint-order:fill markers stroke"
+           id="ellipse23510"
+           cx="74.992432"
+           cy="59.4571"
+           rx="16.278442"
+           ry="9.5540104" />
+        <text
+           xml:space="preserve"
+           style="font-size:5.29167px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="74.947212"
+           y="58.702625"
+           id="text23516"><tspan
+             id="tspan23512"
+             style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+             x="74.947212"
+             y="58.702625"
+             sodipodi:role="line">Route with</tspan><tspan
+             style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+             x="74.947212"
+             y="63.994293"
+             id="tspan23514"
+             sodipodi:role="line">metric 200</tspan></text>
+      </g>
+      <g
+         id="g25693">
+        <ellipse
+           style="fill:#d68a00;fill-opacity:0.145098;stroke:#ff6600;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.807843;paint-order:fill markers stroke"
+           id="ellipse24742"
+           cx="108.37867"
+           cy="59.4571"
+           rx="16.278442"
+           ry="9.5540104" />
+        <text
+           xml:space="preserve"
+           style="font-size:5.29167px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="108.33345"
+           y="58.702625"
+           id="text24748"><tspan
+             id="tspan24744"
+             style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+             x="108.33345"
+             y="58.702625"
+             sodipodi:role="line">Route with</tspan><tspan
+             style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+             x="108.33345"
+             y="63.994293"
+             id="tspan24746"
+             sodipodi:role="line">metric 250</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="fill:#22e52e;fill-opacity:0.145455;stroke:#6bd276;stroke-width:0.661988;stroke-opacity:0.921569;paint-order:fill markers stroke"
+       id="rect25787"
+       width="108.13158"
+       height="43.952637"
+       x="133.31181"
+       y="29.06414"
+       rx="3.6044979"
+       ry="3.6580763" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="153.46364"
+       y="36.945801"
+       id="text25791"><tspan
+         sodipodi:role="line"
+         id="tspan25789"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="153.46364"
+         y="36.945801">Routing information source 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="155.4183"
+       y="43.884876"
+       id="text25795"><tspan
+         sodipodi:role="line"
+         id="tspan25793"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="155.4183"
+         y="43.884876">Administrative Distance: 120</tspan></text>
+    <ellipse
+       style="fill:#455d00;fill-opacity:0.145098;stroke:#93ab5d;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.807843;paint-order:fill markers stroke"
+       id="ellipse25797"
+       cx="152.66588"
+       cy="59.132263"
+       rx="16.278442"
+       ry="9.5540104" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="152.62067"
+       y="58.377789"
+       id="text25803"><tspan
+         id="tspan25799"
+         style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="152.62067"
+         y="58.377789"
+         sodipodi:role="line">Route with</tspan><tspan
+         style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="152.62067"
+         y="63.669456"
+         id="tspan25801"
+         sodipodi:role="line">metric 5</tspan></text>
+    <ellipse
+       style="fill:#455d00;fill-opacity:0.145098;stroke:#93ab5d;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.807843;paint-order:fill markers stroke"
+       id="ellipse25807"
+       cx="187.6649"
+       cy="59.132263"
+       rx="16.278442"
+       ry="9.5540104" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="187.61969"
+       y="58.377789"
+       id="text25813"><tspan
+         id="tspan25809"
+         style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="187.61969"
+         y="58.377789"
+         sodipodi:role="line">Route with</tspan><tspan
+         style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="187.61969"
+         y="63.669456"
+         id="tspan25811"
+         sodipodi:role="line">metric 10</tspan></text>
+    <ellipse
+       style="fill:#455d00;fill-opacity:0.145098;stroke:#93ab5d;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.807843;paint-order:fill markers stroke"
+       id="ellipse25817"
+       cx="222.66393"
+       cy="59.132263"
+       rx="16.278442"
+       ry="9.5540104" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="222.61871"
+       y="58.377789"
+       id="text25823"><tspan
+         id="tspan25819"
+         style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="222.61871"
+         y="58.377789"
+         sodipodi:role="line">Route with</tspan><tspan
+         style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="222.61871"
+         y="63.669456"
+         id="tspan25821"
+         sodipodi:role="line">metric 7</tspan></text>
+    <g
+       id="g54053">
+      <rect
+         style="fill:#0083c1;fill-opacity:0.145455;stroke:#6b69d0;stroke-width:0.661988;stroke-opacity:0.921569;paint-order:fill markers stroke"
+         id="rect41865"
+         width="108.13158"
+         height="43.952637"
+         x="247.59706"
+         y="29.06414"
+         rx="3.6044979"
+         ry="3.6580763" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.29167px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="267.74887"
+         y="36.945801"
+         id="text41869"><tspan
+           sodipodi:role="line"
+           id="tspan41867"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="267.74887"
+           y="36.945801">Routing information source 3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:5.29167px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="269.70355"
+         y="43.884876"
+         id="text41873"><tspan
+           sodipodi:role="line"
+           id="tspan41871"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="269.70355"
+           y="43.884876">Administrative Distance: 110</tspan></text>
+      <ellipse
+         style="fill:#45baff;fill-opacity:0.145098;stroke:#93ab5d;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.807843;paint-order:fill markers stroke"
+         id="ellipse41875"
+         cx="266.95111"
+         cy="59.132263"
+         rx="16.278442"
+         ry="9.5540104" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.29167px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="266.90591"
+         y="58.377789"
+         id="text41881"><tspan
+           id="tspan41877"
+           style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="266.90591"
+           y="58.377789"
+           sodipodi:role="line">Route with</tspan><tspan
+           style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="266.90591"
+           y="63.669456"
+           id="tspan41879"
+           sodipodi:role="line">metric 11</tspan></text>
+      <ellipse
+         style="fill:#45baff;fill-opacity:0.145098;stroke:#93ab5d;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.807843;paint-order:fill markers stroke"
+         id="ellipse41883"
+         cx="301.95013"
+         cy="59.132263"
+         rx="16.278442"
+         ry="9.5540104" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.29167px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="301.90494"
+         y="58.377789"
+         id="text41889"><tspan
+           id="tspan41885"
+           style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="301.90494"
+           y="58.377789"
+           sodipodi:role="line">Route with</tspan><tspan
+           style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="301.90494"
+           y="63.669456"
+           id="tspan41887"
+           sodipodi:role="line">metric 32</tspan></text>
+      <ellipse
+         style="fill:#45baff;fill-opacity:0.145098;stroke:#93ab5d;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.807843;paint-order:fill markers stroke"
+         id="ellipse41891"
+         cx="336.94916"
+         cy="59.132263"
+         rx="16.278442"
+         ry="9.5540104" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.29167px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="336.90396"
+         y="58.377789"
+         id="text41897"><tspan
+           id="tspan41893"
+           style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="336.90396"
+           y="58.377789"
+           sodipodi:role="line">Route with</tspan><tspan
+           style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="336.90396"
+           y="63.669456"
+           id="tspan41895"
+           sodipodi:role="line">metric 25</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 187.3776,76.628531 c 0,19.891893 0,19.891893 0,19.891893"
+       id="path53952" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 308.24375,78.138191 279.015,98.088917"
+       id="path54034"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:181.299;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="212.27663"
+       y="109.32378"
+       id="text54440"
+       transform="translate(-116.26832,-6.2805125)"><tspan
+         x="212.27663"
+         y="109.32378"
+         id="tspan72848"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan72846">When IOS learns about an IP prefix from several routing information sources, </tspan></tspan><tspan
+         x="212.27663"
+         y="114.61545"
+         id="tspan72852"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan72850">it selects the best source, by comparing the Admisitrative Distance of each </tspan></tspan><tspan
+         x="212.27663"
+         y="119.90712"
+         id="tspan72856"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan72854">source. The source with the lowest Administrative Distance is the best.</tspan></tspan></text>
+    <rect
+       style="fill:#d68d00;fill-opacity:0.145455;stroke:#ff6600;stroke-width:0.661988;stroke-opacity:0.921569;paint-order:fill markers stroke"
+       id="rect64103"
+       width="108.13158"
+       height="43.952637"
+       x="133.31181"
+       y="138.53299"
+       rx="3.6044979"
+       ry="3.6580763" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="153.46362"
+       y="143.99486"
+       id="text64107"><tspan
+         sodipodi:role="line"
+         id="tspan64105"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="153.46362"
+         y="143.99486">Routing information source 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="155.41829"
+       y="149.90106"
+       id="text64111"><tspan
+         sodipodi:role="line"
+         id="tspan64109"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="155.41829"
+         y="149.90106">Administrative Distance: 10</tspan></text>
+    <g
+       id="g64121"
+       transform="translate(114.28525,102.94588)">
+      <ellipse
+         style="fill:#d68a00;fill-opacity:0.145098;stroke:#ff6600;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.807843;paint-order:fill markers stroke"
+         id="ellipse64113"
+         cx="38.380627"
+         cy="59.4571"
+         rx="16.278442"
+         ry="9.5540104" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.29167px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="38.335411"
+         y="58.702625"
+         id="text64119"><tspan
+           id="tspan64115"
+           style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="38.335411"
+           y="58.702625"
+           sodipodi:role="line">Route with</tspan><tspan
+           style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="38.335411"
+           y="63.994293"
+           id="tspan64117"
+           sodipodi:role="line">metric 100</tspan></text>
+    </g>
+    <g
+       id="g64131"
+       transform="translate(112.67246,102.94588)">
+      <ellipse
+         style="fill:#d68a00;fill-opacity:0.145098;stroke:#ff6600;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.807843;paint-order:fill markers stroke"
+         id="ellipse64123"
+         cx="74.992432"
+         cy="59.4571"
+         rx="16.278442"
+         ry="9.5540104" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.29167px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="74.947212"
+         y="58.702625"
+         id="text64129"><tspan
+           id="tspan64125"
+           style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="74.947212"
+           y="58.702625"
+           sodipodi:role="line">Route with</tspan><tspan
+           style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="74.947212"
+           y="63.994293"
+           id="tspan64127"
+           sodipodi:role="line">metric 200</tspan></text>
+    </g>
+    <g
+       id="g64141"
+       transform="translate(114.28525,102.94588)">
+      <ellipse
+         style="fill:#d68a00;fill-opacity:0.145098;stroke:#ff6600;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.807843;paint-order:fill markers stroke"
+         id="ellipse64133"
+         cx="108.37867"
+         cy="59.4571"
+         rx="16.278442"
+         ry="9.5540104" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.29167px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="108.33345"
+         y="58.702625"
+         id="text64139"><tspan
+           id="tspan64135"
+           style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="108.33345"
+           y="58.702625"
+           sodipodi:role="line">Route with</tspan><tspan
+           style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="108.33345"
+           y="63.994293"
+           id="tspan64137"
+           sodipodi:role="line">metric 250</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 187.3776,116.53923 c 0,19.89189 0,19.89189 0,19.89189"
+       id="path64145" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 187.66489,173.3062 c 0,19.89189 0,19.89189 0,19.89189"
+       id="path64167" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 222.66392,173.3062 -16.16896,19.89189"
+       id="path64169"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 152.66588,173.3062 18.47705,19.89189"
+       id="path64171"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:173.312;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="316.41888"
+       y="207.48831"
+       id="text64464"
+       transform="translate(-215.54562,-8.9900134)"><tspan
+         x="316.41888"
+         y="207.48831"
+         id="tspan72860"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan72858">Between a source's routes, IOS uses the source's metric to select the </tspan></tspan><tspan
+         x="316.41888"
+         y="212.77998"
+         id="tspan72864"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan72862">best route. Typically, the route with the lowest metric is the best route.
+</tspan></tspan><tspan
+         x="316.41888"
+         y="218.07165"
+         id="tspan72868"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan72866">Metrics between routing information sources are not comparable.</tspan></tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 187.66489,210.65978 c 0,19.89189 0,19.89189 0,19.89189"
+       id="path69853" />
+    <g
+       id="g69863"
+       transform="translate(148.7988,179.52285)">
+      <g
+         id="g72213">
+        <ellipse
+           style="fill:#d68a00;fill-opacity:0.145098;stroke:#ff6600;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.807843;paint-order:fill markers stroke"
+           id="ellipse69855"
+           cx="38.449097"
+           cy="56.811268"
+           rx="39.873402"
+           ry="5.1362972" />
+        <text
+           xml:space="preserve"
+           style="font-size:5.29167px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="38.335411"
+           y="58.702625"
+           id="text69861"><tspan
+             style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+             x="38.335411"
+             y="58.702625"
+             id="tspan69859"
+             sodipodi:role="line">Route with AD: 10/metric: 100</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:173.312;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="316.41888"
+       y="207.48831"
+       id="text72219"
+       transform="translate(-277.02358,29.66886)"><tspan
+         x="316.41888"
+         y="207.48831"
+         id="tspan72870">only the best route gets into the Routing table</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 63.259087,78.138191 29.22875,19.950726"
+       id="path72595"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

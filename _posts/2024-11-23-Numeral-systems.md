@@ -95,7 +95,7 @@ At this point, we can see that <span>$$10_b=b_{10}$$</span>:
 
 <div>
 $$\begin{align}&0\times b^0 + 1\times b^1=\\
-&0\times 1 + 1\times b\\
+&0\times 1 + 1\times b =\\
 &0+b=b_{10}\end{align}$$
 </div>
 
@@ -119,6 +119,8 @@ For example, let us consider the hexadecimal numeral <span>$$A6_{16}$$</span>.
 
 <div>
 $$\begin{align}&6\times 16^0 + A\times 16^1 =\\
-&6\times 1 + 10\times 16\\
+&6\times 1 + 10\times 16 =\\
 &6+160=166_{10}\end{align}$$
 </div>
+
+

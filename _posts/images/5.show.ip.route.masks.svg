@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="217.09332mm"
+   height="62.443027mm"
+   viewBox="0 0 217.09333 62.443036"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="show.ip.route.masks.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     lock-margins="true"
+     fit-margin-top="1"
+     fit-margin-left="0.5"
+     fit-margin-right="0.5"
+     fit-margin-bottom="0.5"
+     inkscape:zoom="1.6965054"
+     inkscape:cx="203.94866"
+     inkscape:cy="221.33734"
+     inkscape:window-width="1310"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="false"
+     showguides="false"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(2.2006232,-50.160877)">
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#ff3a00;fill-opacity:0.921569;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="25.224823"
+       y="110.93257"
+       id="text35754"><tspan
+         sodipodi:role="line"
+         id="tspan35752"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';fill:#ff3a00;fill-opacity:0.921569;stroke:none;stroke-width:0.264583px"
+         x="25.224823"
+         y="110.93257">Destination IP prefix/subnet mask</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-1.7006232"
+       y="54.739643"
+       id="text2057"><tspan
+         sodipodi:role="line"
+         id="tspan2055"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-1.7006232"
+         y="54.739643">R1#show ip route</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-1.7006232"
+         y="59.732746"
+         id="tspan2059">Codes: L - local, C - connected, S - static, R - RIP, M - mobile, B - BGP</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-1.7006232"
+         y="64.725853"
+         id="tspan2061">       D - EIGRP, EX - EIGRP external, O - OSPF, IA - OSPF inter area </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-1.7006232"
+         y="69.718956"
+         id="tspan2079">       ...</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-1.7006232"
+         y="74.712059"
+         id="tspan2081">       &amp; - replicated local route overrides by connected</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-1.7006232"
+         y="79.705162"
+         id="tspan2083" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-1.7006232"
+         y="84.698265"
+         id="tspan2085">Gateway of last resort is not set</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-1.7006232"
+         y="89.691368"
+         id="tspan2087" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-1.7006232"
+         y="94.684471"
+         id="tspan2089">      10.0.0.0/8 is variably subnetted, 2 subnets, 2 masks</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-1.7006232"
+         y="99.677574"
+         id="tspan2091">C        10.10.10.16/30 is directly connected, GigabitEthernet0/0</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-1.7006232"
+         y="104.67068"
+         id="tspan2093">L        10.10.10.17/32 is directly connected, GigabitEthernet0/0</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="-1.7006232"
+         y="109.66378"
+         id="tspan2097">R1#</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff6600;stroke-width:0.661987;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.921569"
+       d="M 67.098676,105.65376 V 95.34664 L 46.71338,95.199185 V 90.19231 H 14.495706 l 0.08312,7.419442 h 8.505267 v 8.042008 z"
+       id="path2706"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+</svg>
