@@ -24,7 +24,7 @@ To use the `show ip route` command, enter privileged-exec mode and run the follo
 
 The output of this command is organized into three sections. These sections are _Codes_, the _Default route_, and the _Routes_. The following image shows the output of this command.
 
-![The `show ip route` command three sections](./images/1.show.ip.route.sections.svg)
+![The `show ip route` command three sections](../assets/img/posts/1.show.ip.route.sections.svg)
 
 ## Codes
 
@@ -42,7 +42,7 @@ The routing table uses the heading for a classful network only if it knows more 
 
 The following image shows routes with the heading and without the heading.
 
-![Route block headings in the output of the `show ip route` command](./images/2.show.ip.route.route.blocks.svg)
+![Route block headings in the output of the `show ip route` command](../assets/img/posts/2.show.ip.route.route.blocks.svg)
 
 The heading includes three things: 
 
@@ -62,7 +62,7 @@ A router learns routes from various sources. The _total number of subnets_ part 
 
 When you assign an IP address to the interface, the router automatically creates two routes from the IP configuration and both of these routes to the routing table. The router adds the first route for the subnet of the IP address. The router uses this route to forward IP packets out the particular interface that has this IP address assigned. IOS also adds a second route for the interface's IP address itself. The router uses this /32 route to reach the interface. The router uses the prefix /32 for this route.
 
-![Routes learned from a configured IP address on an interface](./images/3.show.ip.route.local.config.addresses.svg)
+![Routes learned from a configured IP address on an interface](../assets/img/posts/3.show.ip.route.local.config.addresses.svg)
 
 ### Total number of masks
 
@@ -74,19 +74,19 @@ The routing table uses a heading to organize all routes created from the same cl
 
 The legend code is the first thing in a route entry. A router can learn a route from various _sources_. The legend code shows the source from which the router learned the route. The routing table displays the legend code in an abbreviated form. The first section of the output of the `show ip route` command shows the meaning of each code.
 
-![Legend code in output and the legends on each route entry](./images/4.show.ip.route.legend.codes.svg)
+![Legend code in output and the legends on each route entry](../assets/img/posts/4.show.ip.route.legend.codes.svg)
 
 ### Network address / Subnet mask
 
 Each route points to the next hop on a path to a specific destination. Each route entry includes only one destination network/subnet. After the legend code, the routing table places the destination network address with the subnet mask in the route entry.
 
-![Destination prefix and subnet mask](./images/5.show.ip.route.masks.svg)
+![Destination prefix and subnet mask](../assets/img/posts/5.show.ip.route.masks.svg)
 
 Routers use the routing table to make a forwarding decision. A router compares the destination address of each IP packet to the prefix stored in each entry of the routing table. If the prefix mentioned in an entry matches the destination address of the IP packet, the router forwards the IP packet from the interface or to the next-hop router's IP address mentioned in the matching route entry.
 
 ## Administrative Distance(AD)/Metric
 
-![AD and route metric](./images/6.AD.metric.route.selection.svg)
+![AD and route metric](../assets/img/posts/6.AD.metric.route.selection.svg)
 
 The routing table stores only one route for each destination subnet. If the router learns more than one route for a destination from different routing information sources, the router adds only the best route to the routing table. To select the best route, the router uses the AD (Administrative Distance) value.
 
@@ -117,19 +117,19 @@ R1#
 
 Next in the route entry is the IP address of the next-hop router. A router forwards the packet to the next-hop router if the destination address of the IP packet and the address specified in the route entry match.
 
-![Next-hop IP address](./images/8.show.ip.route.next.hop.IP.addr.svg)
+![Next-hop IP address](../assets/img/posts/8.show.ip.route.next.hop.IP.addr.svg)
 
 ### EIGRP/OSPF Timer
 
 The EIGRP and OSPF routing protocols use a timer for each learned route. If the route is learned by EIGRP or OSPF, the routing protocol includes the timer in the route entry.
 
-![OSPF and EIGRP route timers](./images/9.show.ip.route.protocol.timers.svg)
+![OSPF and EIGRP route timers](../assets/img/posts/9.show.ip.route.protocol.timers.svg)
 
 ### Egress interface
 
 The last information of each route entry shows the local interface that the router uses to forward the IP packet.
 
-![Egress interface](./images/10.show.ip.route.egress.interface.svg)
+![Egress interface](../assets/img/posts/10.show.ip.route.egress.interface.svg)
 
 #### Reference
 
