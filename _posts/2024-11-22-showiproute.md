@@ -4,39 +4,45 @@ date: 2024-11-22
 ---
 # The `show ip route` command output
 
-This tutorial explains how to read the output of the `show ip route` command in Cisco IOS. Learn how the routing table organizes the routing information, and how to view it.
+This tutorial explains how to read the output of the `show ip route` command in Cisco IOS.
 
 The `show ip route` command displays the structure and contents of the routing table. You can use the `show ip route` for the following purposes:
 
 * To list the routing table's entries
-* To view how many routes available for a particular destination
-* To view the route the router uses to forward data packets for a specific destination
-* To know the routes added by a routing protocol
-* To know the routes added by the router from the IP configurations
+* To view how many routes are available for a particular destination
+* To view the route the router uses to forward IP packets for a specific destination
+* To view the routes added by a routing protocol
+* To view the routes added by IOS for directly connected subnets
 * To view the current status of a route
-* To verify and troubleshoot the routing
+* To verify and troubleshoot routing
 
-To use the `show ip route` command, enter privileged-exec mode and run the following command.
+To use the `show ip route` command, enter privileged EXEC mode in Cisco IOS and run the `show ip route` command.
 
 ````````
 #show ip route
 ````````
 
-The output of this command is organized into three sections. These sections are _Codes_, the _Default route_, and the _Routes_. The following image shows the output of this command.
+The output of this command is organized into three sections. These sections are:
+
+1. _Legend_, 
+2. _Default route_, and 
+3. _Routes_
+
+The following image shows the output of this command.
 
 ![The `show ip route` command three sections](/networks101/assets/img/posts/1.show.ip.route.sections.svg)
 
 ## Codes
 
-The routing table uses the abbreviated code to store the type of route. The Codes section displays the meaning of each abbreviated code.
+The `show ip route` output uses abbreviated codes to mark each route's type (source). The Legend section displays the meaning of each abbreviated code.
 
 ## Default route
 
-The Default Route section displays the default route. Cisco IOS calls the default route as `Gateway of last resort`. IOS routers use their routing table's routes to forward IP packets. If there is no route available for the destination address of an IP packet, the router uses the _default route_ to forward the IP packet. If the default route is not set, the router drops (discards) the IP packet.
+The Default Route section displays the default route. Cisco IOS calls the default route the `Gateway of last resort`. IOS routers use their routing table's routes to forward IP packets. If there is no route available for the destination address of an IP packet, the router uses the _default route_ to forward the IP packet. If the default route is not set, the router drops (discards) the IP packet.
 
 ## Routes
 
-IOS displays all routes from its routing table in the Routes section. To arrange routes, the routing table uses _blocks of classful networks_. Each block contains a classful network and the classless subnets that are part from the classful network. If a classful network is subnetted into small classless networks and the router knows the routes for the classless networks, the routing table uses a heading to group all classless networks of the same classful network.
+IOS displays all routes from its routing table in the Routes section of the `show ip route` output. To arrange routes in its output, the command uses _blocks of classful networks_. Each block contains a classful network and the classless subnets that are part from the classful network. If a classful network is subnetted into small classless networks and the router knows the routes for the classless networks, the routing table uses a heading to group all classless networks of the same classful network.
 
 The routing table uses the heading for a classful network only if it knows more than one route for the classful network. If there is only one route for the classful network, the routing table adds the route without the heading.
 
